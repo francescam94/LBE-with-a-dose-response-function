@@ -9,7 +9,7 @@ We source firm-level information from ORBIS, compiled by the [Bureau Van Dijk](h
 
 - We start by performing data preparation is performed on Stata, following the ordered codes in the folder *Data preparation*.
 - The analysis is performed following the ordered codes in folder *Main Analysis*
-- The robustness checks are in the folder *Robustness and sensitivity*
+- The robustness checks are in the folder *Robustness and Common Support*
 
 ## References
 
