@@ -11,7 +11,7 @@ We source firm-level information from ORBIS, compiled by the [Bureau Van Dijk](h
 - The analysis is performed following the ordered codes in folder *Main Analysis*
 - The robustness checks are in the folder *Robustness and sensitivity*
 
-  ## References
+## References
 
 Micocci, F., Rungi, A., Cerulli, G. (2025). Learning by exporting with a dose-response function. *ArXiv*. 
 doi: 10.48550/arXiv.2505.03328 [here](https://arxiv.org/abs/2505.03328)
